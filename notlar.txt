@@ -1,3 +1,5 @@
-https://iqonic.design/themes/sofbox/sofbox-v4/marketing-software.html
+https://templates.iqonic.design/sofbox/html/main/sofbox-v4/marketing-software.html
+
+https://templates.iqonic.design/sofbox/html/intro/index.html
 
 https://kapa.netlify.app/

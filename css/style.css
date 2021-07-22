@@ -1,4 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@300;400;500;600;700&display=swap');
+
+
+
 body {
     font-family: 'Quicksand', sans-serif;
 }
@@ -14,6 +17,10 @@ body {
     background-color: transparent;
     border: 1px solid #ff725e;
     color: #ff725e;
+}
+
+#navigation{
+    box-shadow: 0px 0px 30px 0px rgba(0,0,0,0.1);
 }
 
 #navigation .nav-link {
