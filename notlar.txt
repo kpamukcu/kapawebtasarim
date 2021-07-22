@@ -1,5 +1,15 @@
+Bütün Örnekler
+https://templates.iqonic.design/sofbox/html/intro/index.html
+
+Ana Şablon
 https://templates.iqonic.design/sofbox/html/main/sofbox-v4/marketing-software.html
 
-https://templates.iqonic.design/sofbox/html/intro/index.html
+Eğitimler Section için 
+https://templates.iqonic.design/sofbox/html/main/sofbox-v4/startup.html
+
+
+flat tasarımlar için
+www.storyset.com
+
 
 https://kapa.netlify.app/

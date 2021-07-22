@@ -40,3 +40,10 @@ body {
 #dijitalPazarlama .card-body h2{
     font-size:20px;
 }
+
+#egitim{
+    background-image: url('../img/01.png');
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: center;
+}
