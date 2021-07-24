@@ -6,6 +6,11 @@ body {
     font-family: 'Quicksand', sans-serif;
 }
 
+.turuncuLink{
+    color:#ff725e;
+    font-weight: 500;
+}
+
 .btn-orange {
     background-color: #ff725e;
     border: 1px solid #ff725e;
@@ -46,4 +51,17 @@ body {
     background-repeat: no-repeat;
     background-size: contain;
     background-position: center;
+}
+
+#blog h3{
+    font-size:18px;
+}
+
+#footer form .row{
+    box-shadow: 0px 0px 48px 0px rgba(0,0,0,0.1);
+    border-radius: 8px;
+}
+
+#footer form .btn{
+    width: 100%;;
 }
