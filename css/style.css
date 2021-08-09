@@ -57,6 +57,16 @@ body {
     font-size:18px;
 }
 
+#hizmetOzellikleri .fa-check{
+    color:#ff725e;
+}
+
+#hizmetOzellikleri .card{
+    border:0;
+    box-shadow: 0px 0px 48px 0px rgba(0,0,0,0.1);
+    border-radius: 8px;
+}
+
 #footer form .row{
     box-shadow: 0px 0px 48px 0px rgba(0,0,0,0.1);
     border-radius: 8px;
