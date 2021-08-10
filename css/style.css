@@ -72,6 +72,14 @@ body {
     background-color: #f5f5f5;
 }
 
+#hizmetOzellikleri .card:hover{
+    background-color: rgb(109, 115, 239);
+    color:#fff;
+    transition-duration: 1s;
+    cursor: pointer;
+    
+}
+
 #footer form .row{
     box-shadow: 0px 0px 48px 0px rgba(0,0,0,0.1);
     border-radius: 8px;
