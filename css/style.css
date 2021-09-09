@@ -88,3 +88,7 @@ body {
 #footer form .btn{
     width: 100%;;
 }
+
+#cta .container{
+    max-height: 125px;
+}
