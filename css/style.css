@@ -53,7 +53,7 @@ body {
     background-position: center;
 }
 
-#blog h3{
+#blog h3, #seoHizmetBlog h3{
     font-size:18px;
 }
 
@@ -91,4 +91,8 @@ body {
 
 #cta .container{
     max-height: 125px;
+}
+
+#cta .col-md-8{
+    font-size:25px;
 }
