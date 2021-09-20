@@ -99,4 +99,26 @@ body {
     #cta .foto {
         display: none;
     }
+    #cta .container {
+        max-height: none;
+        padding-top: 15px;
+        padding-bottom: 15px;
+    }
+    #cta .slogan {
+        padding-top: 0px !important;
+    }
+    #cta .buton {
+        padding-top: 0px !important;
+        margin-top: 15px !important;
+    }
+    #seoHizmetBlog .ikinci {
+        margin-top: 15px;
+        margin-bottom: 15px;
+    }
+    #seoHizmetBlog {
+        padding-top: 0px !important;
+    }
+    #hizmetOzellikleri .googleIcons {
+        width: 50%;
+    }
 }
